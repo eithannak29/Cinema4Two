@@ -1,4 +1,4 @@
-# CinemaForTwo
+# Cinema4Two
 
 This project implements a movie recommendation system using machine learning and collaborative filtering techniques. The system is designed to predict movies that would appeal to a couple of users, taking into account their respective preferences.
 
